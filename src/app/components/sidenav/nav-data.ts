@@ -1,52 +1,52 @@
 export const navbarData = [
   {
     routerLink: 'dashboard',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-home',
     label: 'Dashboard',
   },
   {
     routerLink: 'ordenes',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-cart-shopping',
     label: 'Ordenes y Cotizaciones',
   },
   {
     routerLink: 'clientes',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-circle-user',
     label: 'Clientes y Vehiculos',
   },
   {
     routerLink: 'citas',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-thumbtack',
     label: 'Citas y Recordatorios',
   },
   {
     routerLink: 'catalogo',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-folder-open',
     label: 'Catalogo',
   },
   {
     routerLink: 'ventas',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-money-bill',
     label: 'Venta de Producto',
   },
   {
     routerLink: 'reportes',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-clipboard',
     label: 'Reportes',
   },
   {
     routerLink: 'inventario',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-truck',
     label: 'Inventarios',
   },
   {
     routerLink: 'administracion',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-users',
     label: 'Administración',
   },
   {
     routerLink: 'configuracion',
-    icon: 'fal fa-home',
+    icon: 'fa solid fa-gears',
     label: 'Configuaración',
   },
 ];
